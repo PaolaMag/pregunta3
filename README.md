@@ -22,6 +22,7 @@ Despues de ello, entra a nuestro proyecto y ejecutalo:
 #### nmp.start
 ## Progreso
 | **Cargo**| **Encargado**|
+|----------|--------------|
 | Frontend | Magnus Carlsen|
 | Backend| MVL|
 | Database | Andrew Tang|
